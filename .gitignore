@@ -1,0 +1,4 @@
+.DS_Store
+.vscode/launch.json
+CDC-Data-Reconciliation-Backend/__pycache__
+CDC-Data-Reconciliation-Backend/database.db 

@@ -1,0 +1,71 @@
+CaseID,EventCode,EventName,MMWRYear,MMWRWeek,Reason,ReasonID
+CAS10001023GA01,11065,2019 Novel Coronavirus,2023,8,Duplicate Case ID found in CDC CSV File,1
+CAS10001023GA01,11065,2019 Novel Coronavirus,2023,8,Duplicate Case ID found in CDC CSV File,1
+CAS10001023GA01,11065,2019 Novel Coronavirus,2023,8,Duplicate Case ID found in CDC CSV File,1
+CAS10001023GA01,11065,2019 Novel Coronavirus,2023,8,Duplicate Case ID found in CDC CSV File,1
+CAS10001025GA01,10245,African Tick Bite Fever,2023,8,Duplicate Case ID found in CDC CSV File,1
+CAS10001025GA01,10245,African Tick Bite Fever,2023,8,Duplicate Case ID found in CDC CSV File,1
+CAS10001025GA01,10245,African Tick Bite Fever,2023,8,Duplicate Case ID found in CDC CSV File,1
+CAS10001025GA01,10245,African Tick Bite Fever,2023,8,Duplicate Case ID found in CDC CSV File,1
+CAS10001027GA01,50221,"Zika Virus Infection, Non-Congenital",2023,8,Duplicate Case ID found in CDC CSV File,1
+CAS10001027GA01,50221,"Zika Virus Infection, Non-Congenital",2023,8,Duplicate Case ID found in CDC CSV File,1
+CAS10001027GA01,50221,"Zika Virus Infection, Non-Congenital",2023,8,Duplicate Case ID found in CDC CSV File,1
+CAS10001027GA01,50221,"Zika Virus Infection, Non-Congenital",2023,8,Duplicate Case ID found in CDC CSV File,1
+CAS10001027GA01,50221,"Zika Virus Infection, Non-Congenital",2023,8,Duplicate Case ID found in CDC CSV File,1
+CAS10001030GA01,10660,Yellow Fever,2023,9,Duplicate Case ID found in CDC CSV File,1
+CAS10001030GA01,10660,Yellow Fever,2023,9,Duplicate Case ID found in CDC CSV File,1
+CAS10001030GA01,10660,Yellow Fever,2023,9,Duplicate Case ID found in CDC CSV File,1
+CAS10001030GA01,10660,Yellow Fever,2023,9,Duplicate Case ID found in CDC CSV File,1
+CAS10001000GA01,11065,2019 Novel Coronavirus,2023,6,Duplicate Case ID found in CDC CSV File,1
+CAS10002011GA01,50225,Acanthamoeba Disease (Excluding Keratitis),2023,10,Duplicate Case ID found in CDC CSV File,1
+CAS10002011GA01,50225,Acanthamoeba Disease (Excluding Keratitis),2023,10,Duplicate Case ID found in CDC CSV File,1
+CAS10002011GA01,50225,Acanthamoeba Disease (Excluding Keratitis),2023,10,Duplicate Case ID found in CDC CSV File,1
+CAS10002011GA01,50225,Acanthamoeba Disease (Excluding Keratitis),2023,10,Duplicate Case ID found in CDC CSV File,1
+CAS10002011GA01,50225,Acanthamoeba Disease (Excluding Keratitis),2023,10,Duplicate Case ID found in CDC CSV File,1
+CAS10005269GA01,50225,Acanthamoeba Disease (Excluding Keratitis),2023,23,Duplicate Case ID found in CDC CSV File,1
+CAS10005001GA01,102201,Tuberculosis (2020 RVCT),2023,16,Duplicate Case ID found in CDC CSV File,1
+CAS10013007GA01,11120,Acute flaccid myelitis,2023,40,Duplicate Case ID found in CDC CSV File,1
+CAS10013007GA01,11120,Acute flaccid myelitis,2023,40,Duplicate Case ID found in CDC CSV File,1
+CAS10001004GA01,11065,2019 Novel Coronavirus,2023,06,Case has different attributes between State and CDC CSV Files,3
+CAS10001023GA01,11065,2019 Novel Coronavirus,2023,08,Case has different attributes between State and CDC CSV Files,3
+CAS10001025GA01,10245,African Tick Bite Fever,2023,08,Case has different attributes between State and CDC CSV Files,3
+CAS10001027GA01,50221,"Zika Virus Infection, Non-Congenital",2023,08,Case has different attributes between State and CDC CSV Files,3
+CAS10001015GA01,10100,"Hepatitis B, acute",2023,08,Case has different attributes between State and CDC CSV Files,3
+CAS10001030GA01,10660,Yellow Fever,2023,09,Case has different attributes between State and CDC CSV Files,3
+CAS10001028GA01,102201,Tuberculosis (2020 RVCT),2023,08,Case has different attributes between State and CDC CSV Files,3
+CAS10001021GA01,10190,Pertussis,2023,08,Case has different attributes between State and CDC CSV Files,3
+CAS10001002GA01,10530,"Botulism, foodborne",2023,06,Case has different attributes between State and CDC CSV Files,3
+CAS10001014GA01,11065,2019 Novel Coronavirus,2023,08,Case has different attributes between State and CDC CSV Files,3
+CAS10001016GA01,10100,"Hepatitis B, acute",2023,08,Case has different attributes between State and CDC CSV Files,3
+CAS10001000GA01,11065,2019 Novel Coronavirus,2023,06,Case has different attributes between State and CDC CSV Files,3
+CAS10003002GA01,102201,Tuberculosis (2020 RVCT),2023,11,Case has different attributes between State and CDC CSV Files,3
+CAS10002011GA01,50225,Acanthamoeba Disease (Excluding Keratitis),2023,10,Case has different attributes between State and CDC CSV Files,3
+CAS10002012GA01,10311,"Syphilis, primary",2023,10,Case has different attributes between State and CDC CSV Files,3
+CAS10003043GA01,11065,2019 Novel Coronavirus,2023,12,Case has different attributes between State and CDC CSV Files,3
+CAS10004007GA01,11065,2019 Novel Coronavirus,2023,14,Case has different attributes between State and CDC CSV Files,3
+CAS10004016GA01,10273,Chancroid,2023,14,Case has different attributes between State and CDC CSV Files,3
+CAS10003038GA01,10316,"Syphilis, congenital",2023,12,Case has different attributes between State and CDC CSV Files,3
+CAS10004026GA01,11065,2019 Novel Coronavirus,2023,16,Case has different attributes between State and CDC CSV Files,3
+CAS10005244GA01,10104,"Hepatitis B Viral Infection, Perinatal",2023,18,Case has different attributes between State and CDC CSV Files,3
+CAS10003013GA01,10245,African Tick Bite Fever,2023,11,Case has different attributes between State and CDC CSV Files,3
+CAS10003005GA01,10030,Varicella (Chickenpox),2023,11,Case has different attributes between State and CDC CSV Files,3
+CAS10005231GA01,102201,Tuberculosis (2020 RVCT),2023,17,Case has different attributes between State and CDC CSV Files,3
+CAS10005229GA01,10280,Gonorrhea,2023,17,Case has different attributes between State and CDC CSV Files,3
+CAS10005269GA01,50225,Acanthamoeba Disease (Excluding Keratitis),2023,23,Case has different attributes between State and CDC CSV Files,3
+CAS10005281GA01,502582,Latent Tuberculosis Infection (2020 TBLISS),2023,25,Case has different attributes between State and CDC CSV Files,3
+CAS10005000GA01,102201,Tuberculosis (2020 RVCT),2023,16,Case has different attributes between State and CDC CSV Files,3
+CAS10005001GA01,102201,Tuberculosis (2020 RVCT),2023,16,Case has different attributes between State and CDC CSV Files,3
+CAS10003000GA01,102201,Tuberculosis (2020 RVCT),2023,11,Case has different attributes between State and CDC CSV Files,3
+CAS10001020GA01,102201,Tuberculosis (2020 RVCT),2023,08,Case has different attributes between State and CDC CSV Files,3
+CAS10006001GA01,502582,Latent Tuberculosis Infection (2020 TBLISS),2023,26,Case has different attributes between State and CDC CSV Files,3
+CAS10004020GA01,502582,Latent Tuberculosis Infection (2020 TBLISS),2023,15,Case has different attributes between State and CDC CSV Files,3
+CAS10003010GA01,502582,Latent Tuberculosis Infection (2020 TBLISS),2023,11,Case has different attributes between State and CDC CSV Files,3
+CAS10005242GA01,10280,Gonorrhea,2023,18,Case has different attributes between State and CDC CSV Files,3
+CAS10013007GA01,11120,Acute flaccid myelitis,2023,40,Case has different attributes between State and CDC CSV Files,3
+CAS10011001GA01,10220,Tuberculosis,2023,43,Case ID not found in CDC CSV File,2
+CAS18066661AL01,10030,Varicella (Chickenpox),2023,14,Case ID not found in State CSV File,4
+CAS18077777AL01,10030,Varicella (Chickenpox),2023,14,Case ID not found in State CSV File,4
+CAS15696678AL01,10030,Varicella (Chickenpox),2023,1,Case ID not found in State CSV File,4
+CAS15543216AL01,10030,Varicella (Chickenpox),2023,5,Case ID not found in State CSV File,4
+CAS19554333AL01,10030,Varicella (Chickenpox),2023,18,Case ID not found in State CSV File,4
+CAS90011001GA01,10220,Tuberculosis,2023,43,Case ID not found in State CSV File,4

@@ -1,0 +1,9 @@
+{
+  "driver": "ODBC Driver 17 for SQL Server",
+  "server": "localhost",
+  "database": "NBS_ODSE",
+  "database_username": "",
+  "database_password": "",
+  "config_password": "password",
+  "port": 8000
+}
